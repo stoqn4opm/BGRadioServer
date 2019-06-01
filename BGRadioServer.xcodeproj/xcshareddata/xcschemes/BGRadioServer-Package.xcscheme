@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "BGRadioServer::App"
-               BuildableName = "App.framework"
-               BlueprintName = "App"
+               BlueprintIdentifier = "BGRadioServer::Run"
+               BuildableName = "Run"
+               BlueprintName = "Run"
                ReferencedContainer = "container:BGRadioServer.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -28,9 +28,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "BGRadioServer::Run"
-               BuildableName = "Run"
-               BlueprintName = "Run"
+               BlueprintIdentifier = "BGRadioServer::App"
+               BuildableName = "App.framework"
+               BlueprintName = "App"
                ReferencedContainer = "container:BGRadioServer.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -69,9 +69,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "BGRadioServer::App"
-            BuildableName = "App.framework"
-            BlueprintName = "App"
+            BlueprintIdentifier = "BGRadioServer::Run"
+            BuildableName = "Run"
+            BlueprintName = "Run"
             ReferencedContainer = "container:BGRadioServer.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
